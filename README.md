@@ -24,7 +24,7 @@ A 25-day flow-through mesocosm experiment was conducted at the Richard B. Gump S
 
 | Treatment | Description |
 |---|---|
-| `Control` | No benthic community (bare tile) |
+| `Control` | No benthic community (seawater only) |
 | `Algae_Dom` | Macroalgae-dominated community |
 | `Coral_Dom` | Coral-dominated community |
 | `Rubble_Dom` | Crustose coralline algae (CCA) / rubble-dominated community |

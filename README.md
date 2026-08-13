@@ -1,4 +1,4 @@
-# Shifting benthic communities create chemical legacies that alter coral physiology
+# Community metabolism generates chemical legacies that alter coral physiology
 
 **Journal:** *Limnology and Oceanography*
 

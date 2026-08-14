@@ -10,7 +10,7 @@ Laurel C Diaz<sup>1</sup>\*, Keanu Rochette-Yu Tsuen<sup>2</sup>, Kiran Reed<sup
 
 \*Authors for correspondence: laureldiaz12@gmail.com; silbiger@hawaii.edu
 
-https://doi.org/10.5281/zenodo.21938995
+<a href="https://doi.org/10.5281/zenodo.21938995"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21938995.svg" alt="DOI"></a>
 ---
 
 ## Abstract
